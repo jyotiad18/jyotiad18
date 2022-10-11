@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jyoti Adhikari, Full stack developer
+- 👀 I’m interested in Javascript with react + node + tailwind css + HTML
+- 🌱 I’m currently developing application with react + node + tailwind + HTML
